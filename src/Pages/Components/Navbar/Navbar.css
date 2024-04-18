@@ -1,0 +1,41 @@
+
+.navbar{
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 20px 150px;
+   
+}
+.navbar1 h1{
+    color: red;
+   font-size: 40px;
+
+}
+.navbar2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+
+}
+.english{
+width: 100px;
+height:30px;
+border: 1px solid gray;
+background: none;
+color: white;
+}
+.sing-in{
+    width: 100px;
+    height:30px;
+  background-color: red;
+  border: 1px solid red;
+    color: white;
+    font-size: 16px;
+}
