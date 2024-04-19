@@ -26,6 +26,7 @@
 }
 
 .mobile-se1 {
+width: 380px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -34,8 +35,7 @@
   border-radius: 17px;
   padding: 16px;
   position: absolute;
-  left: 120px;
-
+  left: 130px;
   bottom: 16px;
   background-color: black;
 }
