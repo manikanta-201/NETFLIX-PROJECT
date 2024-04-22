@@ -14,7 +14,7 @@ const Homepage = () => {
   return (
     <>
       <div className="home-img">
-        <img src={HOME} alt="" className="img-background" />
+        {/* <img src={HOME} alt="" className="img-background" /> */}
       </div>
       <div className="hero">
         <Navbar></Navbar>
