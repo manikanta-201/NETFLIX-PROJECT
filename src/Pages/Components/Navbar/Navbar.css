@@ -1,7 +1,7 @@
 
 .navbar{
     background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%);
-    position:fixed;
+    position:absolute;
     top: 0;
     left: 0;
     width: 100%;
