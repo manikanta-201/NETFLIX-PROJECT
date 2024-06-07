@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.47ad118e.css",
+    "main.js": "/static/js/main.75819319.js",
+    "static/media/vediok.mp4": "/static/media/vediok.2f461e9ae887fc1e0808.mp4",
+    "static/media/childern1.png": "/static/media/childern1.836efd88498e14ebed8e.png",
+    "static/media/movieImg1.png": "/static/media/movieImg1.ff81d825b399d890f9b4.png",
+    "static/media/net.webp": "/static/media/net.bd5ca01388a29f63d3bf.webp",
+    "static/media/movie2.m4v": "/static/media/movie2.81bb66955f7e9654e354.m4v",
+    "static/media/mobile1.jpg": "/static/media/mobile1.063578d5b6d5ab4155ec.jpg",
+    "static/media/mobile3.gif": "/static/media/mobile3.1ce72c891b52e6f68f2f.gif",
+    "static/media/mobil2.png": "/static/media/mobil2.347f4ee3bafbdfe71112.png",
+    "static/media/tvframe.png": "/static/media/tvframe.0049bc70babc1f94cf88.png",
+    "index.html": "/index.html",
+    "main.47ad118e.css.map": "/static/css/main.47ad118e.css.map",
+    "main.75819319.js.map": "/static/js/main.75819319.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47ad118e.css",
+    "static/js/main.75819319.js"
+  ]
+}
